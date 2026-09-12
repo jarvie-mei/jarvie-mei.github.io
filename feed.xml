@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>roderick.login@gmail.com (Junjie Mei)</managingEditor>
       <webMaster>roderick.login@gmail.com (Junjie Mei)</webMaster>
-      <lastBuildDate>Sat, 05 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://jarvie-mei.github.io/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://jarvie-mei.github.io/blog/test/math-test</guid>
+    <title>数学公式测试</title>
+    <link>https://jarvie-mei.github.io/blog/test/math-test</link>
+    undefined
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <author>roderick.login@gmail.com (Junjie Mei)</author>
+    
+  </item>
+
   <item>
     <guid>https://jarvie-mei.github.io/blog/release-of-tailwind-nextjs-starter-blog-v2.0</guid>
     <title>Release of Tailwind Nextjs Starter Blog v2.0</title>
