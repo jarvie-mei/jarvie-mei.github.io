@@ -17,7 +17,17 @@
     undefined
     <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
     <author>roderick.login@gmail.com (Junjie Mei)</author>
-    
+    <category>math</category><category>test</category>
+  </item>
+
+  <item>
+    <guid>https://jarvie-mei.github.io/blog/test/mdx-feature-test</guid>
+    <title>MDX 功能测试</title>
+    <link>https://jarvie-mei.github.io/blog/test/mdx-feature-test</link>
+    <description>用于测试 Markdown、MDX、LaTeX、代码块、表格、引用、图片和 React 组件等功能。</description>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <author>roderick.login@gmail.com (Junjie Mei)</author>
+    <category>MDX</category><category>Markdown</category><category>Next.js</category><category>Test</category>
   </item>
 
   <item>
