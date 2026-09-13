@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>roderick.login@gmail.com (Junjie Mei)</managingEditor>
       <webMaster>roderick.login@gmail.com (Junjie Mei)</webMaster>
-      <lastBuildDate>Fri, 11 Oct 2019 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 13 Sep 2026 09:51:00 GMT</lastBuildDate>
       <atom:link href="https://jarvie-mei.github.io/tags/guide/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://jarvie-mei.github.io/blog/blog optimization</guid>
+    <title>How I optimized my blog site</title>
+    <link>https://jarvie-mei.github.io/blog/blog optimization</link>
+    <description>Made some simple custom updates and optimizations to the blog</description>
+    <pubDate>Sun, 13 Sep 2026 09:51:00 GMT</pubDate>
+    <author>roderick.login@gmail.com (Junjie Mei)</author>
+    <category>next-js</category><category>guide</category>
+  </item>
+
   <item>
     <guid>https://jarvie-mei.github.io/blog/github-markdown-guide</guid>
     <title>Markdown Guide</title>
