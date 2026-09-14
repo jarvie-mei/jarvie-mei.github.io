@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+    <title>Jarvis&#39; Blog</title><link>https://jarvie-mei.github.io/en/blog</link>
+    <description>A collection of things I learn, projects I build, and ideas worth sharing.</description><language>en</language>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://jarvie-mei.github.io/en/tags/writings/feed.xml" rel="self" type="application/rss+xml"/><item>
+    <guid>https://jarvie-mei.github.io/en/blog/the-time-machine</guid><title>The Time Machine</title>
+    <link>https://jarvie-mei.github.io/en/blog/the-time-machine</link>
+    <description>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated...</description>
+    <pubDate>Wed, 15 Aug 2018 00:00:00 GMT</pubDate>
+    <author>roderick.login@gmail.com (Junjie Mei)</author>
+    <category>writings</category><category>book</category><category>reflection</category>
+  </item>
+  </channel></rss>
