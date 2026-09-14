@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+    <title>Jarvis&#39; Blog</title><link>https://jarvie-mei.github.io/blog</link>
+    <description>A collection of things I learn, projects I build, and ideas worth sharing.</description><language>zh-CN</language>
+    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://jarvie-mei.github.io/tags/markdown/feed.xml" rel="self" type="application/rss+xml"/><item>
+    <guid>https://jarvie-mei.github.io/blog/test/mdx-feature-test</guid><title>MDX 功能测试</title>
+    <link>https://jarvie-mei.github.io/blog/test/mdx-feature-test</link>
+    <description>用于测试 Markdown、MDX、LaTeX、代码块、表格、引用、图片和 React 组件等功能。</description>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <author>roderick.login@gmail.com (Junjie Mei)</author>
+    <category>MDX</category><category>Markdown</category><category>Next.js</category><category>Test</category>
+  </item>
+  </channel></rss>

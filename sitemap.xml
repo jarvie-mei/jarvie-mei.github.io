@@ -34,6 +34,15 @@
 <loc>https://jarvie-mei.github.io/tags/test</loc>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/tags/mdx</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/tags/markdown</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/tags/nextjs</loc>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/en</loc>
 </url>
 <url>
@@ -100,13 +109,16 @@
 <loc>https://jarvie-mei.github.io/en/tags/multi-author</loc>
 </url>
 <url>
-<loc>https://jarvie-mei.github.io/en/tags/mdx</loc>
+<loc>https://jarvie-mei.github.io/en/tags/pwn</loc>
 </url>
 <url>
-<loc>https://jarvie-mei.github.io/en/tags/nextjs</loc>
+<loc>https://jarvie-mei.github.io/en/tags/ctf</loc>
 </url>
 <url>
-<loc>https://jarvie-mei.github.io/en/tags/test</loc>
+<loc>https://jarvie-mei.github.io/en/tags/program-security</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/en/tags/dynamic-allocator-misuse</loc>
 </url>
 <url>
 <loc>https://jarvie-mei.github.io/en/blog/blog optimization</loc>
@@ -164,20 +176,25 @@
 <lastmod>2021-05-02T00:00:00.000Z</lastmod>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/pwn.college/stack-summoning" />
+<lastmod>2026-09-14T00:00:00.000Z</lastmod>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/blog/pwn.college/stack-summoning</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/pwn.college/stack-summoning" />
 <lastmod>2026-09-14T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://jarvie-mei.github.io/blog/test/math-test</loc>
 <xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/test/math-test" />
-<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/test/mdx-feature-test" />
 <lastmod>2026-09-13T00:00:00.000Z</lastmod>
 </url>
 <url>
-<loc>https://jarvie-mei.github.io/en/blog/test/mdx-feature-test</loc>
-<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/test/math-test" />
-<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/test/mdx-feature-test" />
+<loc>https://jarvie-mei.github.io/blog/test/mdx-feature-test</loc>
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/test/mdx-feature-test" />
 <lastmod>2026-09-13T00:00:00.000Z</lastmod>
 </url>
 </urlset>

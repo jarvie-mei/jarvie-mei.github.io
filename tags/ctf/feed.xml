@@ -4,7 +4,7 @@
     <description>A collection of things I learn, projects I build, and ideas worth sharing.</description><language>zh-CN</language>
     <lastBuildDate>Sun, 13 Sep 2026 20:07:00 GMT</lastBuildDate>
     <atom:link href="https://jarvie-mei.github.io/tags/ctf/feed.xml" rel="self" type="application/rss+xml"/><item>
-    <guid>https://jarvie-mei.github.io/blog/pwn.college/stack-summoning</guid><title>pwn.college write-ups for stack-summoning</title>
+    <guid>https://jarvie-mei.github.io/blog/pwn.college/stack-summoning</guid><title>pwn.college stack-summoning 的题解</title>
     <link>https://jarvie-mei.github.io/blog/pwn.college/stack-summoning</link>
     
     <pubDate>Sun, 13 Sep 2026 20:07:00 GMT</pubDate>
