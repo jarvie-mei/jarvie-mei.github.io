@@ -16,6 +16,15 @@
 <loc>https://jarvie-mei.github.io/tags</loc>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/tags/writings</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/tags/book</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/tags/reflection</loc>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/tags/pwn</loc>
 </url>
 <url>
@@ -166,7 +175,14 @@
 <lastmod>2023-08-05T00:00:00.000Z</lastmod>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/blog/the-time-machine-zh</loc>
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/the-time-machine-zh" />
+<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/the-time-machine" />
+<lastmod>2018-08-15T00:00:00.000Z</lastmod>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/en/blog/the-time-machine</loc>
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/the-time-machine-zh" />
 <xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/the-time-machine" />
 <lastmod>2018-08-15T00:00:00.000Z</lastmod>
 </url>
