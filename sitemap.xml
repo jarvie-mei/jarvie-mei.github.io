@@ -34,6 +34,15 @@
 <loc>https://jarvie-mei.github.io/tags/datalab</loc>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/tags/数据表示</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/tags/读书笔记</loc>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/tags/计算机科学</loc>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/en</loc>
 </url>
 <url>
@@ -86,6 +95,11 @@
 <url>
 <loc>https://jarvie-mei.github.io/blog/csapp/labs/dataLab</loc>
 <xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/csapp/labs/dataLab" />
+<lastmod>2026-09-16T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://jarvie-mei.github.io/blog/csapp/notes/chap2/Integer-representations</loc>
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/csapp/notes/chap2/Integer-representations" />
 <lastmod>2026-09-16T00:00:00.000Z</lastmod>
 </url>
 </urlset>
