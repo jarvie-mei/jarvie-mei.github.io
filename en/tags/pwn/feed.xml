@@ -2,8 +2,15 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
     <title>Jarvis&#39; Blog</title><link>https://jarvie-mei.github.io/en/blog</link>
     <description>A collection of things I learn, projects I build, and ideas worth sharing.</description><language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:58:00 GMT</lastBuildDate>
     <atom:link href="https://jarvie-mei.github.io/en/tags/pwn/feed.xml" rel="self" type="application/rss+xml"/><item>
+    <guid>https://jarvie-mei.github.io/en/blog/pwn.college/echo-emanations-en</guid><title>pwn.college echo-emanations writeup</title>
+    <link>https://jarvie-mei.github.io/en/blog/pwn.college/echo-emanations-en</link>
+    
+    <pubDate>Fri, 18 Sep 2026 10:58:00 GMT</pubDate>
+    <author>roderick.login@gmail.com (Junjie Mei)</author>
+    <category>pwn</category><category>ctf</category><category>program-security</category><category>dynamic-allocator-misuse</category>
+  </item><item>
     <guid>https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en</guid><title>pwn.college write-ups for stack-summoning</title>
     <link>https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en</link>
     

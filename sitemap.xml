@@ -81,7 +81,14 @@
 <lastmod>2026-09-13T00:00:00.000Z</lastmod>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/en/blog/pwn.college/echo-emanations-en</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/pwn.college/echo-emanations-en" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/pwn.college/echo-emanations" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/blog/pwn.college/echo-emanations</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/pwn.college/echo-emanations-en" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/pwn.college/echo-emanations" />
 <lastmod>2026-09-18T00:00:00.000Z</lastmod>
 </url>
