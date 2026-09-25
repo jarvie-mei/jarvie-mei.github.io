@@ -93,6 +93,11 @@
 <lastmod>2026-09-18T00:00:00.000Z</lastmod>
 </url>
 <url>
+<loc>https://jarvie-mei.github.io/blog/pwn.college/seeking-safe-secrets</loc>
+<xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/pwn.college/seeking-safe-secrets" />
+<lastmod>2026-09-25T00:00:00.000Z</lastmod>
+</url>
+<url>
 <loc>https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://jarvie-mei.github.io/en/blog/pwn.college/stack-summoning-en" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/pwn.college/stack-summoning" />
@@ -107,7 +112,7 @@
 <url>
 <loc>https://jarvie-mei.github.io/blog/csapp/labs/dataLab</loc>
 <xhtml:link rel="alternate" hreflang="zh" href="https://jarvie-mei.github.io/blog/csapp/labs/dataLab" />
-<lastmod>2026-09-16T00:00:00.000Z</lastmod>
+<lastmod>2026-09-21T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://jarvie-mei.github.io/blog/csapp/notes/chap2/Integer-representations</loc>
